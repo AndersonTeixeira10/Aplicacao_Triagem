@@ -37,8 +37,6 @@ O **Verificador de Arquivos SEI** é uma ferramenta de automação desenvolvida 
 | **ChromeDriver** | 136.0+ | Navegador automatizado |
 | **ClosedXML** | 0.105.0 | Manipulação de Excel |
 | **SQLite** | 9.0.7 | Banco de dados local |
-| **Tesseract** | 5.2.0 | OCR para documentos |
-| **PdfPig** | 0.1.10 | Leitura de PDFs |
 
 ## 📦 Pré-requisitos
 
@@ -215,14 +213,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - **Tecnologia** .NET 8.0 + Selenium
 - **Versão atual** 3.0
 
-## 📞 Suporte
-
-Para suporte técnico ou dúvidas:
-- 📧 Email: [seu-email@antt.gov.br]
-- 📱 Teams: [canal de suporte]
-- 📋 Jira: [ticket de suporte]
-
----
 
 <div align="center">
 
