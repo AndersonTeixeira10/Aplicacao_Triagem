@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="ClosedXML" Version="0.105.0" />
+		<PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+		<PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.7" />
+		<PackageReference Include="PdfPig" Version="0.1.10" />
+		<PackageReference Include="Selenium.Support" Version="4.32.0" />
+		<PackageReference Include="Selenium.WebDriver" Version="4.32.0" />
+		<PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="136.0.7103.9400" />
+		<PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+		<PackageReference Include="System.Net.Http" Version="4.3.4" />
+		<PackageReference Include="Tesseract" Version="5.2.0" />
+		<PackageReference Include="WebDriverManager" Version="2.17.5" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="Properties\Resources.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>Resources.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="Properties\Resources.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
+	</ItemGroup>
+
+	<!-- Adicionado para garantir que todos os arquivos dentro de tessdata sejam copiados -->
+	<ItemGroup>
+		<Content Include="tessdata\**\*.*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Remove="TriagemService.cs" />
+	</ItemGroup>
+
+</Project>
+

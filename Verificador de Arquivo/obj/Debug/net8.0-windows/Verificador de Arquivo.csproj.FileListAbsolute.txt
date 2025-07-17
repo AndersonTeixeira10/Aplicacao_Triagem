@@ -1,0 +1,189 @@
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.AssemblyReference.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.AssemblyInfoInputs.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.AssemblyInfo.cs
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.exe
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.deps.json
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.runtimeconfig.json
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.pdb
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriver.Support.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriver.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriverManager.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verifica.B58FBF32.Up2Date
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\refint\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.pdb
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.genruntimeconfig.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\ref\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador_de_Arquivo.LoginForm.resources
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador_de_Arquivo.Properties.Resources.resources
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.GenerateResource.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI\Verificador de Arquivo\bin\Debug\net8.0-windows\tessdata\por.traineddata
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\tessdata\por.traineddata
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.exe
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.deps.json
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.runtimeconfig.json
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.pdb
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriver.Support.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriver.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriverManager.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.AssemblyReference.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador_de_Arquivo.LoginForm.resources
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador_de_Arquivo.Properties.Resources.resources
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.GenerateResource.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.AssemblyInfoInputs.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.AssemblyInfo.cs
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verifica.B58FBF32.Up2Date
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\refint\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.pdb
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.genruntimeconfig.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - projeto com OCR\Verificador de Arquivo\obj\Debug\net8.0-windows\ref\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\tessdata\por.traineddata
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.exe
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.deps.json
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.runtimeconfig.json
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Verificador de Arquivo.pdb
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\AngleSharp.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Core.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.DocumentLayoutAnalysis.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Fonts.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Package.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokenization.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.Tokens.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\UglyToad.PdfPig.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriver.Support.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriver.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\WebDriverManager.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.AssemblyReference.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador_de_Arquivo.LoginForm.resources
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador_de_Arquivo.Properties.Resources.resources
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.GenerateResource.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.AssemblyInfoInputs.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.AssemblyInfo.cs
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.csproj.CoreCompileInputs.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verifica.B58FBF32.Up2Date
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\refint\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.pdb
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\Verificador de Arquivo.genruntimeconfig.cache
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\obj\Debug\net8.0-windows\ref\Verificador de Arquivo.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\anderson.teixeira\Documents\Aplicações e Robôs\Triagem SEI - Verificar Arquivos\Verificador de Arquivo\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificador de Arquivo", "Verificador de Arquivo.csproj", "{13D4DB1D-3C95-4EBD-A722-4AAAE5CB3792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D4DB1D-3C95-4EBD-A722-4AAAE5CB3792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D4DB1D-3C95-4EBD-A722-4AAAE5CB3792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D4DB1D-3C95-4EBD-A722-4AAAE5CB3792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D4DB1D-3C95-4EBD-A722-4AAAE5CB3792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C55DEA1E-D76E-4F83-BC67-2C5772B3D067}
+	EndGlobalSection
+EndGlobal
